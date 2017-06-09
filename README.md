@@ -10,8 +10,8 @@
 
 ### 使用到的资源
 
-[心知天气](https://www.seniverse.com/): 提供天气信息。
-[Heroku](http://heroku.com/): 用于在线部署 `Node` 应用。
+1. [心知天气](https://www.seniverse.com/): 提供天气信息。
+2. [Heroku](http://heroku.com/): 用于在线部署 `Node` 应用。
 
 ### 基本结构
 
