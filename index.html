@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+	<title>Demo</title>
+	<link rel="stylesheet" href="dist/styles/main.css">
+</head>
+<body>
+	<section class="container">
+		<section class="info">
+			<span class="city">定位中...</span>
+			<span class="location"></span>
+		</section>
+
+		<section class="weather">
+			<img src="dist/imgs/weather_icon/5.png" alt="weather icon" class="weather-icon">
+			<p class="weather-des">*</p>
+			<span class="tempture">*</span>
+		</section>
+
+		<section class="recent">
+			<div class="weather-item">
+				<img src="dist/imgs/weather_icon/6.png" alt="" class="weather-icon">
+				<span class="date">明天</span>
+				<span class="high">*</span>
+				<span class="low">*</span>
+			</div>
+
+			<div class="weather-item">
+				<img src="dist/imgs/weather_icon/7.png" alt="" class="weather-icon">
+				<span class="date">后天</span>
+				<span class="high">*</span>
+				<span class="low">*</span>
+			</div>
+		</section>
+
+		<section class="model">
+			<input type="text" name="input_city" placeholder="请输入城市名">
+			<button>确定</button>
+		</section>
+	</section>
+
+
+	<script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+	<script src="dist/js/app.js"></script>
+</body>
+</html>
