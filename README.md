@@ -1,8 +1,8 @@
 # Weathers
 
-首先来看看效果图，下面分别是阴天和晴天的演示图
+首先来看看效果图，下面是程序演示图
 
-![image](https://github.com/hwaphon/Weather/blob/master/disply_1.png)
+![image](https://github.com/hwaphon/Weather/blob/master/display_1.png)
 
 ![image](https://github.com/hwaphon/Weather/blob/master/display_2.png)
 
